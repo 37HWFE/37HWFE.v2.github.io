@@ -2,48 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://www.37oct.cn/2021/03/01/my-test-777/</loc>
-    
-    <lastmod>2021-03-01</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.37oct.cn/2021/03/01/my-test-666666/</loc>
-    
-    <lastmod>2021-03-01</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.37oct.cn/2021/03/01/my-test-5/</loc>
-    
-    <lastmod>2021-03-01</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.37oct.cn/2021/03/01/my-test-3/</loc>
-    
-    <lastmod>2021-03-01</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.37oct.cn/2021/03/01/my-test-2/</loc>
-    
-    <lastmod>2021-03-01</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.37oct.cn/2021/03/01/my-admin-test/</loc>
-    
-    <lastmod>2021-03-01</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://www.37oct.cn/2021/02/20/observer-and-publishers/</loc>
     
     <lastmod>2021-03-01</lastmod>
@@ -189,13 +147,6 @@
   
   <url>
     <loc>https://www.37oct.cn/categories/JavaScript/</loc>
-    <lastmod>2021-03-01</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.37oct.cn/categories/JavaScript/CSS/</loc>
     <lastmod>2021-03-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
